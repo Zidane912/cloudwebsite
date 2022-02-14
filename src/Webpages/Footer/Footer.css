@@ -1,0 +1,26 @@
+.footer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    color: white;
+    padding: 0.5cm;
+    background-color: #333;
+    box-shadow: 0 50vh 0 50vh #333;
+}
+
+.socialmedia {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.inlogo {
+    height: 2.5cm;
+    width: 2.5cm;
+    margin: auto;
+}
+
+.instalogo {
+    height: 1.5cm;
+    width: 1.5cm;
+    margin: auto;
+}

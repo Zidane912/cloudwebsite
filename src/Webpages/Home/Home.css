@@ -1,0 +1,49 @@
+.top-image {
+    width: 3cm;
+    height: 2cm;
+}
+
+h2 {
+    margin: 0;
+}
+
+.hometop {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.logo {
+    height: 6cm;
+    width: 9cm;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.titlemain {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.what {
+    background-color: white;
+}
+
+.wwdtext {
+    margin: 2cm;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+.why {
+    background-color: #013D7B;
+}
+
+.who {
+    background-color: #0092CE;
+}

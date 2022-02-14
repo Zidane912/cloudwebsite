@@ -1,0 +1,28 @@
+.top-image {
+    width: 3cm;
+    height: 2cm;
+}
+
+.all {
+    color: white;
+    padding-bottom: 5cm;
+}
+
+h2 {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+.contacttext {
+    margin: 2cm;
+}
+
+.maillogo { 
+    height: 3cm;
+    width: 3cm;
+}

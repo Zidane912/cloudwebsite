@@ -1,0 +1,25 @@
+.top {
+    background-color: #333;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.fr {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.paddingtop {
+    padding-top: 15px;
+}
+
+.selected-link {
+    color: #fce300;
+}
